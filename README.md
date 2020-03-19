@@ -24,12 +24,12 @@ This is a Clover install for MacOS Mojave 10.14.5. It also function on MacOS Cat
 - [x] Sleep/Wake functionality
 - [x] Screen brightness adjustment
 - [x] Webcam
-- [x] Intel Bluetooth 
-- [x] HDMI
+- [x] Build-in Intel Bluetooth 
+- [x] HDMI Out
 - [x] HDMI Audio
 
 ### Non-Functioning Components
 
 - [ ] nVidia GTX 1050 does work, but I've disabled it in my build
 - [ ] SD card reader
-- [ ] Build-in Wifi card
+- [ ] Build-in Wifi
