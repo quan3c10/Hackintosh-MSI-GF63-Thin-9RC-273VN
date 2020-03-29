@@ -30,6 +30,6 @@ This is a Clover install for MacOS Mojave 10.14.5. It also function on MacOS Cat
 
 ### Non-Functioning Components
 
-- [ ] nVidia GTX 1050 does work, but I've disabled it in my build
+- [ ] nVidia GTX 1050 doesn't work, and I've disabled it in my build
 - [ ] SD card reader
 - [ ] Build-in Wifi (replace with USB Wifi)
